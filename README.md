@@ -307,3 +307,4 @@ Contoh 3 :
 
 ![Screenshot_20220727-161532_Trebuchet](Screenshot_20220727-161532_Trebuchet.png)
 
+Masih banyak lagi tag tag element pada HTML karena untuk di bahas semua itu tidak memungkinkan kamu bisa explore sendiri di sini [HTML Element Reference](https://www.w3schools.com/tags/default.asp)
